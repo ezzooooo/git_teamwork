@@ -3,7 +3,11 @@
 A new Flutter project.
 Push rejected 일으키기
 Push rejected 발생
+<<<<<<< HEAD
 오류 발생123123
+=======
+한번더 오류 발생
+>>>>>>> 41913158ef5c755ae404bd9a544a7b9b4010c4d3
 
 ## Git 협업 특강 자료
 
