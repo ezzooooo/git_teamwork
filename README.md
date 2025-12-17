@@ -1,6 +1,6 @@
 # git_teamwork
 
-A new Flutter project.
+Push rejected 발생
 
 ## Git 협업 특강 자료
 
